@@ -1,1 +1,22 @@
-theme: jekyll-theme-merlot
+# main text of home
+name: Hien Le
+bio: A Girl who love travel, swimming, and drawing.  
+
+# twitter summary info
+description: A blog about technology and stuff related
+
+picture: assets/images/picture.jpg
+
+url: https://ltdhien.github.io
+# your url: http://USERNAME.github.io
+
+# if you don't have any of social below, comment the line
+facebook: ltdh1772
+twitter: mytwitter
+github: ltdhien
+email: ltdhien@hotmail.com
+
+gems:
+  - jekyll-seo-tag
+
+exclude: [README.md, Gemfile, Gemfile.lock, _site, Rakefile, travis.sh, vendor]
